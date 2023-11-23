@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TP6_REACT/static/css/main.57fed12b.css",
+    "main.js": "/TP6_REACT/static/js/main.b4cd56a0.js",
+    "static/media/p1.png": "/TP6_REACT/static/media/p1.237530bf1daa15974ab3.png",
+    "static/media/p2.png": "/TP6_REACT/static/media/p2.a91dc29012157013c7ac.png",
+    "static/media/saudiarabia.png": "/TP6_REACT/static/media/saudiarabia.25514b85e9db8650588e.png",
+    "static/media/united-kingdom.svg": "/TP6_REACT/static/media/united-kingdom.2d19fed4fb288f7b8a8591bbe3b70429.svg",
+    "static/media/spain.svg": "/TP6_REACT/static/media/spain.32e1e4891a5c1d5ce79f04ec7671d151.svg",
+    "index.html": "/TP6_REACT/index.html",
+    "static/media/france.svg": "/TP6_REACT/static/media/france.40c79af5ce5231775ae018679c075255.svg",
+    "main.57fed12b.css.map": "/TP6_REACT/static/css/main.57fed12b.css.map",
+    "main.b4cd56a0.js.map": "/TP6_REACT/static/js/main.b4cd56a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57fed12b.css",
+    "static/js/main.b4cd56a0.js"
+  ]
+}
