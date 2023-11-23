@@ -1,0 +1,22 @@
+
+#p2{
+    width: 35%;
+    position: relative;
+    left: 55em;
+}
+.title{
+    width: 50%;
+    position: absolute;
+    bottom: 12em;
+    left: 3em;
+}
+.txt{
+    position: absolute;
+    bottom: 27em;
+    left: 7.8em;
+}
+.button{
+    position: absolute;
+    bottom: 24em;
+    left: 7.8em;
+}
